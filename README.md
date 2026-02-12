@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LordVilisLENKONGUI
 - 👀 I’m interested in economics, especially macroeconomics topics (fiscal and monetary policies)
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently a Ph.D. candidate in economics at Paris Nanterre University, EconomiX
 
 <!---
 - 💞️ I’m looking to collaborate on ...
